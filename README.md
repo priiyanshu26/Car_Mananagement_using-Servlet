@@ -1,10 +1,10 @@
-###Car Management System
+### Car Management System
 
 The Car Management System is a web application developed using Java Servlets that enables efficient management of car records. It allows users to perform 
 CRUD (Create, Read, Update, Delete) operations on car data, making it an ideal system for car dealerships or rental agencies.
 
 ---
-##Features
+## Features
 
 - Add new car records with details like make, model, year, and price.
 
@@ -17,7 +17,7 @@ CRUD (Create, Read, Update, Delete) operations on car data, making it an ideal s
 - Simple and user-friendly interface.
 
 ---
-##Technologies Used
+## Technologies Used
 
 - Backend: Java Servlets, JSP (Java Server Pages)
 
@@ -32,7 +32,7 @@ CRUD (Create, Read, Update, Delete) operations on car data, making it an ideal s
 - Setup and Installation
 
 ---
-##Prerequisites
+## Prerequisites
 
 - Java Development Kit (JDK) installed.
 
@@ -43,7 +43,7 @@ CRUD (Create, Read, Update, Delete) operations on car data, making it an ideal s
 - Git installed (for version control).
 
 ---
- ##Usage
+ ## Usage
 
 - Navigate to the home page of the application.
 
